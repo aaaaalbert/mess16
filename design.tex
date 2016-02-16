@@ -71,10 +71,10 @@ QR code reader & arbitrary data\\
 
 
 \subsection{Interfacing with the sandbox}
-The experimenter uses an experiment manager tool installed on his 
+The experimenter uses an experiment manager installed on his 
 or her computer to control the sandbox on the Android device and to 
 upload or download code and data.
-The experiment management tool communicates with the app using a 
+The experiment manager communicates with the app using a 
 cryptographically signed protocol over TCP/IP networking (e.g. WLAN), 
 thereby obviating the need for dedicated interfaces like I2C, RS323, 
 or JTAG.
@@ -101,7 +101,7 @@ read user input, provide feedback, visualize sensor readings, and so on.
 
 Furthermore, certain basic output methods can be enabled for a sandbox. 
 These include actuating the devices's vibrator, using the text-to-speech 
-interface, and presenting an on-screen notification popup.
+interface, and presenting an on-screen notification pop-up.
 % (or \texttt{Toast} in Android's terminology\footnote{\url{https://developer.android.com/guide/topics/ui/notifiers/toasts.html}}). 
 This is particularly useful for 
 experiments that should deliver immediate feedback, or when using a separate 
@@ -129,11 +129,10 @@ packaging steps are required to push out updated code. This eases
 development and debugging, making \sys a great platform for prototyping 
 and iterative development.
 
-\begin{lstlisting}[language=Python,float,numbers=left,basicstyle=\small,emph={get_acceleration},xleftmargin=2em,emphstyle=\textit,label=alg:log-accel,caption=\textsc{Code sample: Log the magnitude of acceleration}]
-STANDARD_GRAVITY = 9.81
+\begin{lstlisting}[language=Python,float,numbers=left,basicstyle=\small,emph={get_acceleration,log,getruntime},xleftmargin=2em,emphstyle=\textit,label=alg:log-accel,caption=\textsc{Code sample: Log the magnitude of acceleration}]
 while True:
   acc_x, acc_y, acc_z = get_acceleration()
-  magnitude = ((acc_x-STANDARD_GRAVITY)**2 + 
-      acc_y**2 + acc_z**2) ** 0.5
+  magnitude = (acc_x**2 + acc_y**2 + 
+      acc_z**2) ** 0.5
   log(getruntime(), magnitude, "\n")
 \end{lstlisting}
