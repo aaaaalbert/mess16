@@ -1,0 +1,29 @@
+%!TEX root = mess16.tex
+\section{Running Distributed Experiments}\label{sec:distexp}
+
+In addition to providing a flexible programmable sensor laboratory 
+for local experimentation, \sys is designed to allow for including 
+contributed (``donated'') resources in distributed experiments as well. 
+For this to work, a Clearinghouse is introduced as a trusted 
+intermediary between volunteers that contribute computational and 
+sensor resources on their devices, and researches wanting to run 
+experiments on multiple, distributed sandboxes.
+
+Clearly, an experiment must not be able to perform privacy-invasive 
+tasks such as reading the exact GPS location of the device, unless 
+the device owner consents. We chose to implement a fine-grained 
+method for codifying consent in the form of sensor access restriction 
+policies: 
+Both the accuracy of the sensor value and the frequency of readout 
+can be limited. This gives device owners total control over the 
+amount of sensor data they are comfortable to share with an 
+experimenter.
+
+However, the distributed mode of experimentation does not only rely on 
+device owners to protect their privacy. We also demand from researchers 
+that their institutional review boards (IRBs) examine and approve the 
+experiment design. From this, an additional stack of policies is generated, 
+which provides privacy protection in case no other, more stringent 
+owner-set policies exist.
+More details on the implementation of policies can be found in our 
+prior contribution \cite{zhuang2015privacy}.

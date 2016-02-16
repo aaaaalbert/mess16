@@ -1,0 +1,28 @@
+%!TEX root = mess16.tex
+\section{Introduction}
+
+Today's smartphones and tablets are sensor-rich, computationally 
+powerful, highly integrated devices that sport huge amounts of storage 
+capacity, can run on battery for extended periods of time, and are often 
+connected to the Internet via wireless networks.
+Also, commoditization has driven down the price of devices, making them 
+readily available.
+
+We thus view smartphones and tablets are an attractive platform to 
+prototype sensor-enabled experiments on, and our \sys Android 
+app\footnote{\url{https://play.google.com/store/apps/details?id=com.sensibility_testbed}} 
+exists to support experimenters to do so. For this, \sys provides a 
+high-level programmable sandbox environment that encapsulates and 
+abstracts away many of the underlying operating system's peculiarities. 
+
+Experiment code queries sensor values through function calls. 
+This is a huge simplification over Android's native approach of registering 
+listeners, receiving event notifications, and so on\footnote{For an overview of sensor usage in Android, please see the introductory material at \url{https://developer.android.com/guide/topics/sensors/sensors_overview.html}}.
+Furthermore, the code development cycle is accelerated: Replacing the 
+experiment code in the sandbox is a matter of uploading a new source 
+file to the device. There are no build or packaging steps.
+
+The rest of this exposition mainly focuses on \sys's design, 
+explains how to interface with the sandbox, and discusses a small piece 
+of working example code. We also touch on techniques we built into \sys 
+that allow for privacy-preserving distributed experimentation.

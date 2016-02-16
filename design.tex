@@ -1,0 +1,139 @@
+%!TEX root = mess16.tex
+\section{Overview}\label{sec:design}
+
+\sys is an app for Android devices such as smartphones and tablets. 
+Once configured and installed, it presents to the experimenter a 
+programmable, sensor-enabled Python-based sandbox environment that 
+is remote-controllable using TCP/IP networking.
+
+
+\subsection{The \sys sandbox}
+
+The sandbox is \sys's execution environment for experimenter code. 
+Inside the sandbox, experimenters can use a restricted, performance-isolated 
+subset of the \textsc{Python 2} high-level scripting language to 
+read the device's sensors, perform computations, 
+store and retrieve data files, use TCP and UDP sockets, and so 
+on\footnote{Sandbox API documentation: \url{https://seattle.poly.edu/wiki/RepyV2API}}$^,$\footnote{Sensor API documentation: \url{https://sensibilitytestbed.com/projects/project/wiki/sensors}}. 
+An extensive set of libraries\footnote{Library sources: \url{https://github.com/SensibilityTestbed/seattlelib_v2}} extends the sandbox's 
+capabilities, and 
+provides additional mathematical functions, matrix manipulation, 
+network time synchronization via NTP, crypto, an HTTP server, etc.
+
+The restrictions placed on the sandbox make it so that an experiment 
+is confined to its specific directory (and cannot traverse the filesystem); 
+furthermore, only a small number of non-privileged ports is allowed for 
+network traffic. In terms of performance isolation, an experiment's 
+allotment of CPU share is capped, as are the file read and write rates 
+and the available network bandwidth.
+Isolation and restrictions are of particular importance when the 
+experimenter runs code on devices he or she does not own; see 
+Section~\ref{sec:distexp} for an introduction to these use cases.
+
+
+
+Table~\ref{tbl:sensors} overviews the sensors that \sys currently 
+exposes on a typical device. We take ``sensor'' in this context to mean 
+any data source that provides information about the physical environment 
+that the device is in, including for example wireless networks. 
+Newer devices expose larger sets of sensors (e.g. including a 
+barometer, a step counter, and NFC), which we strive to add to the 
+sandbox as their prevalence increases. 
+As noted previously, \sys's sandbox simplifies Android's approach of 
+handling sensors and provides function calls to let an experiment 
+query sensor values directly.
+
+\begin{table}
+\small
+\caption{Sensors that \sys currently exposes}\label{tbl:sensors}
+\centering
+\begin{tabular}{c|c}
+\hline
+Sensor & Quantity sensed [unit (where applicable)]\\
+\hline
+\hline
+Accelerometer & acceleration [\si{\meter\per\square\second}], 3 axes\\
+Magnetometer & magnetic field [\si{\micro\tesla}], 3 axes\\
+Gyroscope & rotation [\si{\radian\per\second}], 3 axes\\
+Ambient light & illuminance [\si{\lux}]\\
+\hline
+Battery & Voltage [\si{\volt}], temperature [\si{\degreeCelsius}], \ldots\\
+WLAN & (B)SSID, RSSI [\si{dB}m], MAC address, \ldots\\
+Cellular network & Cell ID, LAC, network type, \ldots\\
+%Bluetooth
+%NFC
+GPS & latitude [\si{\degree}], longitude [\si{\degree}], altitude [\si{\meter}], \ldots\\
+\hline
+QR code reader & arbitrary data\\
+\hline
+\end{tabular}
+\end{table}
+
+
+\subsection{Interfacing with the sandbox}
+The experimenter uses an experiment manager tool installed on his 
+or her computer to control the sandbox on the Android device and to 
+upload or download code and data.
+The experiment management tool communicates with the app using a 
+cryptographically signed protocol over TCP/IP networking (e.g. WLAN), 
+thereby obviating the need for dedicated interfaces like I2C, RS323, 
+or JTAG.
+% Internet connectivity, NAT traversal
+
+The \sys app itself is designed to run continuously in the background, 
+not providing an interactive graphical user interface beyond what is 
+required for configuration purposes. This enables unobtrusive distributed 
+experimentation on ``donated'' resources (i.e. installs on devices 
+not owned by actual experimenters), as 
+Section~\ref{sec:distexp} below discusses. 
+However, there are multiple ways of providing input to a sandbox. 
+One source of input is the experiment management tool. 
+Then, the previously mentioned sensors may provide data. For example, 
+scanning a QR code that uses \sys's custom URI scheme 
+``\texttt{sensibilitytestbed://}'' results in the URI's path to 
+be provided to the sandbox.
+% For example, scanning a QR code that decodes to \texttt{sensibilitytestbed://sensibilitytestbed.com/YOUR\_DATA} provides \texttt{YOUR\_DATA} to the sandbox.
+One can also transfer data over plain 
+TCP or UDP sockets, or even implement ``web apps'' by 
+running a small local web server in the sandbox. 
+When opened in the device's browser, the content served can be used to 
+read user input, provide feedback, visualize sensor readings, and so on.
+
+Furthermore, certain basic output methods can be enabled for a sandbox. 
+These include actuating the devices's vibrator, using the text-to-speech 
+interface, and presenting an on-screen notification popup.
+% (or \texttt{Toast} in Android's terminology\footnote{\url{https://developer.android.com/guide/topics/ui/notifiers/toasts.html}}). 
+This is particularly useful for 
+experiments that should deliver immediate feedback, or when using a separate 
+computer for control is unwieldy.
+
+
+\subsection{An illustrative example}
+
+Suppose that we want to measure the magnitude of the acceleration 
+vector acting on a device running \sys.
+Listing~\ref{alg:log-accel} presents actual, working example code.
+It polls the device's accelerometers, receiving three values that correspond 
+to the spatial axes, calculates the vector's magnitude, and logs the 
+timestamped values. Note that ``\texttt{**}'' is Python's exponentiation 
+operator, used here for squaring and taking the square root; 
+\texttt{get\_acceleration}, \texttt{log} and \texttt{getruntime} are 
+API calls defined by the \sys sandbox.
+
+Since the \sys app takes care of initializing the sensors and encapsulates 
+Android's native sensor facilities, experiments are simple to bootstrap, 
+and the entry threshold is low. Also, updating an experiment is only a 
+matter of uploading new code to the sandbox and restarting it: The \sys 
+app remains unchanged and need not be reinstalled, and no build or 
+packaging steps are required to push out updated code. This eases 
+development and debugging, making \sys a great platform for prototyping 
+and iterative development.
+
+\begin{lstlisting}[language=Python,float,numbers=left,basicstyle=\small,emph={get_acceleration},xleftmargin=2em,emphstyle=\textit,label=alg:log-accel,caption=\textsc{Code sample: Log the magnitude of acceleration}]
+STANDARD_GRAVITY = 9.81
+while True:
+  acc_x, acc_y, acc_z = get_acceleration()
+  magnitude = ((acc_x-STANDARD_GRAVITY)**2 + 
+      acc_y**2 + acc_z**2) ** 0.5
+  log(getruntime(), magnitude, "\n")
+\end{lstlisting}
