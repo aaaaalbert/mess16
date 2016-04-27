@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.1">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="2383.94" PAGEHEIGHT="3370.39" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A0" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="0" ABSTSPALTEN="0" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="Adobe RGB" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="Adobe RGB" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="d" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="3.528" dispY="3.528" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="FromPS#0000001a" CMYK="#0000001a"/>
+        <COLOR NAME="FromPS#0000004d" CMYK="#0000004d"/>
+        <COLOR NAME="FromPS#000000a6" CMYK="#000000a6"/>
+        <COLOR NAME="FromPS#000000bf" CMYK="#000000bf"/>
+        <COLOR NAME="FromPS#006699" RGB="#006699"/>
+        <COLOR NAME="FromPS#026c9b" RGB="#026c9b"/>
+        <COLOR NAME="FromPS#24f1ff16" CMYK="#24f1ff16"/>
+        <COLOR NAME="FromPS#26ffe61a" CMYK="#26ffe61a"/>
+        <COLOR NAME="FromPS#de952604" CMYK="#de952604"/>
+        <COLOR NAME="FromPS#e64df24d" CMYK="#e64df24d"/>
+        <COLOR NAME="FromPS#f240001a" CMYK="#f240001a"/>
+        <COLOR NAME="FromPS#ff0000" RGB="#ff0000"/>
+        <COLOR NAME="FromPS#ff610026" CMYK="#ff610026"/>
+        <COLOR NAME="FromPS#ff730024" CMYK="#ff730024"/>
+        <COLOR NAME="Grundfarbe" CMYK="#01f2f408"/>
+        <COLOR NAME="Monochromatic Dark" CMYK="#19f2c690"/>
+        <COLOR NAME="Monochromatic Light" CMYK="#00c48800"/>
+        <COLOR NAME="NYU_Greeeeeen" RGB="#7fc142"/>
+        <COLOR NAME="NYU_Violetttttt" RGB="#8642c1"/>
+        <COLOR NAME="None" RGB="#966432"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <STYLE NAME="Address Para Style" PARENT="Default Paragraph Style" ALIGN="2" LINESPMode="1" FONTSIZE="42"/>
+        <STYLE NAME="Textbox Para Style" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" CPARENT="Default Character Style" FONTSIZE="27"/>
+        <STYLE NAME="RefAckBox Para Style" PARENT="Textbox Para Style" BCOLOR="None" FCOLOR="FromPS#000000bf" BGCOLOR="None"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="0" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Datei" filename="/Users/albert/Desktop/Konferenzen/papers/2013_NetSys/poster/poster.ps" separationName="Alle" printerCommand="">
+            <Separation Name="Cyan"/>
+            <Separation Name="Magenta"/>
+            <Separation Name="Gelb"/>
+            <Separation Name="Schwarz"/>
+        </Printer>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="2" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Adobe RGB" ImageP="Adobe RGB" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="1.00062992125984" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Arial Bold"/>
+            <Fonts Name="Arial Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="2383.94" PAGEHEIGHT="3370.39" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="2383.94" PAGEHEIGHT="3370.39" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="" Size="" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="945.725440944886" YPOS="2432.80472440942" OwnPage="0" ItemID="851942826" PTYPE="6" WIDTH="694.488188976378" HEIGHT="620.70723228349" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M694.49 620.707 L0 620.707 L0 0 L694.49 0 L694.49 620.707 Z" copath="M694.49 620.707 L0 620.707 L0 0 L694.49 0 L694.49 620.707 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="964.003478221259" YPOS="2651.71981627297" OwnPage="0" ItemID="867293610" PTYPE="2" WIDTH="666.956521778745" HEIGHT="193.130577427817" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.913639070929788" LOCALSCY="0.913639070929788" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/Code_example.tiff" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L666.957 0 L666.957 193.131 L0 193.131 L0 0 Z" copath="M0 0 L666.957 0 L666.957 193.131 L0 193.131 L0 0 Z" gXpos="-378.95553752677" gYpos="-158.8031496063" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1687.86961995355" YPOS="1717.5905511811" OwnPage="0" ItemID="855687082" PTYPE="2" WIDTH="670" HEIGHT="582.755905511812" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.21157323688969" LOCALSCY="1.21157323688969" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/blur.pdf" IRENDER="0" EMBEDDED="0" path="M0 0 L670 0 L670 582.756 L0 582.756 L0 0 Z" copath="M0 0 L670 0 L670 582.756 L0 582.756 L0 0 Z" gXpos="1687.86961995355" gYpos="1717.5905511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="147.69402992126" YPOS="80.8000598425197" OwnPage="0" ItemID="867188138" PTYPE="6" WIDTH="2285.33" HEIGHT="3026.02694015748" FRTYPE="3" CLIPEDIT="1" PWIDTH="28.346" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M2285.33 3026.03 L0 3026.03 L0 0 L2285.33 0 L2285.33 3026.03 Z" copath="M2285.33 3026.03 L0 3026.03 L0 0 L2285.33 0 L2285.33 3026.03 Z" gXpos="0" gYpos="5.6843418860808e-14" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1688.70489192126" YPOS="1509.17815310236" OwnPage="0" ItemID="867106218" PTYPE="6" WIDTH="691.882" HEIGHT="814.930260283464" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M691.882 814.93 L0 814.93 L0 0 L691.882 0 L691.882 814.93 Z" copath="M768.759 905.479 L0 905.479 L0 0 L768.759 0 L768.759 905.479 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="185.04" YPOS="426.626497774735" OwnPage="0" ItemID="867082666" PTYPE="4" WIDTH="2238.26086956522" HEIGHT="446.946336870935" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L2238.26 0 L2238.26 446.946 L0 446.946 L0 0 Z" copath="M0 0 L2238.26 0 L2238.26 446.946 L0 446.946 L0 0 Z" gXpos="11.7533170147202" gYpos="14.1732283464567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="100" FCOLOR="NYU_Violetttttt"/>
+                <ITEXT FEATURES="inherit smallcaps" FCOLOR="NYU_Violetttttt" CH="Sensibility Testbed: A Programmable Sensor Laboratory For Android Devices"/>
+                <para ALIGN="1" LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0"/>
+                <para ALIGN="1" LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0"/>
+                <ITEXT FONTSIZE="75" FEATURES="inherit smallcaps" FCOLOR="NYU_Greeeeeen" CH="Albert Rafetseder, Yanyan Zhuang, Justin Cappos"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="202.38015556282" YPOS="856.430472440972" OwnPage="0" ItemID="856924074" PTYPE="6" WIDTH="728.53534443718" HEIGHT="554.2951097" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M728.536 554.295 L0 554.295 L0 0 L728.536 0 L728.536 554.295 Z" copath="M728.536 554.295 L0 554.295 L0 0 L728.536 0 L728.536 554.295 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="967.702990166929" YPOS="858.761181089763" OwnPage="0" ItemID="856921002" PTYPE="6" WIDTH="1406.50535813307" HEIGHT="554.295" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M1406.51 554.295 L0 554.295 L0 0 L1406.51 0 L1406.51 554.295 Z" copath="M1406.51 554.295 L0 554.295 L0 0 L1406.51 0 L1406.51 554.295 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="202.38015556282" YPOS="2432.37456177166" OwnPage="0" ItemID="852140970" PTYPE="6" WIDTH="696.804609893875" HEIGHT="621.137394921247" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M696.804 621.138 L0 621.138 L0 0 L696.804 0 L696.804 621.138 Z" copath="M774.229 690.154 L0 690.154 L0 0 L774.229 0 L774.229 690.154 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="156.69402992126" YPOS="381.33425984252" OwnPage="0" ItemID="852137898" PTYPE="7" WIDTH="2269.5166" HEIGHT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="8.504" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M0 0 L2269.52 0 " copath="M0 0 L2269.52 0 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="227.173803149608" YPOS="2397.95199212599" OwnPage="0" ItemID="852134826" PTYPE="6" WIDTH="307.034545150392" HEIGHT="70.8661417322835" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M307.035 70.8661 L0 70.8661 L0 0 L307.035 0 L307.035 70.8661 Z" copath="M307.035 70.8661 L0 70.8661 L0 0 L307.035 0 L307.035 70.8661 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="971.496896404997" YPOS="2397.95149606299" OwnPage="0" ItemID="851937706" PTYPE="6" WIDTH="343.708165319415" HEIGHT="70.8661417322835" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M343.709 70.8661 L0 70.8661 L0 0 L343.709 0 L343.709 70.8661 Z" copath="M343.709 70.8661 L0 70.8661 L0 0 L343.709 0 L343.709 70.8661 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="202.38015556282" YPOS="1508.72889248032" OwnPage="0" ItemID="851911594" PTYPE="6" WIDTH="1437.78534443718" HEIGHT="815.1295209055" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M1437.79 815.13 L0 815.13 L0 0 L1437.79 0 L1437.79 815.13 Z" copath="M1597.54 905.7 L0 905.7 L0 0 L1597.54 0 L1597.54 905.7 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="671.749086614173" YPOS="1474.05596850394" OwnPage="0" ItemID="851906474" PTYPE="6" WIDTH="526.455783464567" HEIGHT="70.8661417322835" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M526.456 70.8661 L0 70.8661 L0 0 L526.456 0 L526.456 70.8661 Z" copath="M526.456 70.8661 L0 70.8661 L0 0 L526.456 0 L526.456 70.8661 Z" gXpos="445.03937007874" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="641.008695994527" YPOS="1487.62581307772" OwnPage="0" ItemID="852030378" PTYPE="4" WIDTH="574.014926052717" HEIGHT="79.8260869565217" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L574.015 0 L574.015 79.8261 L0 79.8261 L0 0 Z" copath="M0 0 L574.015 0 L574.015 79.8261 L0 79.8261 L0 0 Z" gXpos="445.03937007874" gYpos="56.6929133858268" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="45" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="Experiments"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="225.0428483" YPOS="2413.34988015953" OwnPage="0" ItemID="847490474" PTYPE="4" WIDTH="308" HEIGHT="71" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L308 0 L308 71 L0 71 L0 0 Z" copath="M0 0 L308 0 L308 71 L0 71 L0 0 Z" gXpos="176.333365315746" gYpos="55.9366655272441" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="45" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="Try It Out!"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="980.859089283469" YPOS="2414.10614173228" OwnPage="0" ItemID="851988394" PTYPE="4" WIDTH="318.196658748027" HEIGHT="79.82608696" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L318.197 0 L318.197 79.8261 L0 79.8261 L0 0 Z" copath="M0 0 L318.197 0 L318.197 79.8261 L0 79.8261 L0 0 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="45" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="Code Example"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="227.28462992126" YPOS="820.605126497774" OwnPage="0" ItemID="847487402" PTYPE="6" WIDTH="521.850003937008" HEIGHT="70.8661417322835" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M521.849 70.8661 L0 70.8661 L0 0 L521.849 0 L521.849 70.8661 Z" copath="M521.849 70.8661 L0 70.8661 L0 0 L521.849 0 L521.849 70.8661 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="241.851215267716" YPOS="834.775419456718" OwnPage="0" ItemID="847482282" PTYPE="4" WIDTH="497.857637795278" HEIGHT="79.82608696" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L497.858 0 L497.858 79.8261 L0 79.8261 L0 0 Z" copath="M0 0 L497.858 0 L497.858 79.8261 L0 79.8261 L0 0 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESPMode="0" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="47" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="Ubiquitous Sensing..."/>
+                <trail ALIGN="1" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="222.547415229134" YPOS="2494.27422108665" OwnPage="0" ItemID="851927978" PTYPE="4" WIDTH="665.484710755118" HEIGHT="414.52824382266" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L665.485 0 L665.485 414.528 L0 414.528 L0 0 Z" copath="M0 0 L665.485 0 L665.485 414.528 L0 414.528 L0 0 Z" gXpos="0" gYpos="68.0314960629921" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" FONTSIZE="27"/>
+                <ITEXT CH="See our wiki tutorial to learn using Sensibility Testbed."/>
+                <trail>
+                    <Tabs Type="0" Pos="35.47826091" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="994.539540913386" YPOS="914.045874729134" OwnPage="0" ItemID="875685802" PTYPE="4" WIDTH="641.460459086614" HEIGHT="473.300581963779" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L641.46 0 L641.46 473.301 L0 473.301 L0 0 Z" copath="M0 0 L641.46 0 L641.46 473.301 L0 473.301 L0 0 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="876094890" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Today's "/>
+                <ITEXT FONT="Arial Bold" CH="smartphones and tablets"/>
+                <ITEXT CH=" are low-cost, sensor-rich, computationally powerful, highly integrated devices with huge amounts of storage capacity, can run on battery for extended periods of time, and are often connected to the Internet via wireless networks."/>
+                <para PARENT="Textbox Para Style"/>
+                <para PARENT="Textbox Para Style"/>
+                <ITEXT CH="Given their wide availability, we view them as an attractive sensor-enabled prototype and experimentation platform."/>
+                <para PARENT="Textbox Para Style"/>
+                <para PARENT="Textbox Para Style"/>
+                <ITEXT CH="Sensibility Testbed provides means for both "/>
+                <ITEXT FONT="Arial Bold" CH="local  and remote, distributed experimentation"/>
+                <ITEXT CH=". Our "/>
+                <ITEXT FONT="Arial Regular" CH="sandbox"/>
+                <ITEXT CH=" is secure and respects the privacy of contributors (see below). Its roots in the Python programming language make it easy to learn and use."/>
+                <para PARENT="Textbox Para Style"/>
+                <ITEXT CH="The Sensibility Testbed Clearinghouse mediates access to resources on contributed devices, enabling large experimental deployments on devices all around the world."/>
+                <trail PARENT="Textbox Para Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="300.881889763779" YPOS="2520.53149606299" OwnPage="0" ItemID="875672490" PTYPE="12" WIDTH="554.882081409451" HEIGHT="555" FRTYPE="0" CLIPEDIT="0" ANNAME="Group1" groupWidth="554.882081409451" groupHeight="555" groupClips="1" path="M0 0 L554.882 0 L554.882 555 L0 555 L0 0 Z" copath="M0 0 L554.882 0 L554.882 555 L0 555 L0 0 Z" gXpos="300.881889763779" gYpos="2520.53149606299" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="300.881889763779" YPOS="2520.53149606299" OwnPage="0" ItemID="875754922" PTYPE="2" WIDTH="490.25" HEIGHT="481.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="3.25506756756757" LOCALSCY="3.25506756756757" LOCALX="-0.0131635669953129" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/sensibility_wiki_qr.gif" IRENDER="0" EMBEDDED="0" path="M0 0 L490.25 0 L490.25 481.75 L0 481.75 L0 0 Z" copath="M0 0 L490.25 0 L490.25 481.75 L0 481.75 L0 0 Z" gXpos="0" gYpos="0" gWidth="554.882081409451" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="364.753937007874" YPOS="2987.87527559055" OwnPage="0" ItemID="875749802" PTYPE="4" WIDTH="414.375" HEIGHT="87.6562204724405" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L414.375 0 L414.375 87.6562 L0 87.6562 L0 0 Z" copath="M0 0 L414.375 0 L414.375 87.6562 L0 87.6562 L0 0 Z" gXpos="63.8720472440947" gYpos="467.34377952756" gWidth="554.882081409451" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT FONTSIZE="34" CH="Sensibility Tutorial Page"/>
+                    <trail/>
+                </StoryText>
+            </PAGEOBJECT>
+            <PAGEOBJECT XPOS="770.724601094489" YPOS="2983.68503937008" OwnPage="0" ItemID="875744682" PTYPE="4" WIDTH="458.291338582671" HEIGHT="85.0393700787401" FRTYPE="0" CLIPEDIT="0" ROT="-90" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L458.291 0 L458.291 85.0394 L0 85.0394 L0 0 Z" copath="M0 0 L458.291 0 L458.291 85.0394 L0 85.0394 L0 0 Z" gXpos="469.84271133071" gYpos="463.153543307087" gWidth="554.882081409451" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle/>
+                    <ITEXT FONTSIZE="20" FCOLOR="FromPS#000000bf" CH="https://sensibilitytestbed.com/projects/project/wiki"/>
+                    <trail/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1013.28462992126" YPOS="816.605126528346" OwnPage="0" ItemID="876100010" PTYPE="6" WIDTH="749.88087007874" HEIGHT="70.8661" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M749.881 70.8661 L0 70.8661 L0 0 L749.881 0 L749.881 70.8661 Z" copath="M749.881 70.8661 L0 70.8661 L0 0 L749.881 0 L749.881 70.8661 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="993.67011293622" YPOS="831.948647774802" OwnPage="0" ItemID="876207530" PTYPE="4" WIDTH="760.44228343386" HEIGHT="79.82608696" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L760.442 0 L760.442 79.8261 L0 79.8261 L0 0 Z" copath="M0 0 L760.442 0 L760.442 79.8261 L0 79.8261 L0 0 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESPMode="0" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="47" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="...On Distributed Smartphones"/>
+                <trail ALIGN="1" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1659.92322834646" YPOS="898.064960629919" OwnPage="0" ItemID="876200362" PTYPE="2" WIDTH="685.11961995354" HEIGHT="323.627952755907" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.08749146024371" LOCALSCY="1.08749146024371" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/arch_alternative.pdf" IRENDER="0" EMBEDDED="0" path="M0 0 L685.12 0 L685.12 323.628 L0 323.628 L0 0 Z" copath="M0 0 L685.12 0 L685.12 323.628 L0 323.628 L0 0 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="227.381430977165" YPOS="1690.56692913385" OwnPage="0" ItemID="867075498" PTYPE="2" WIDTH="679.952755905512" HEIGHT="613.68503937008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="-218.234997041472" LOCALY="-5.33333333333333" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/o3gm.png" IRENDER="0" EMBEDDED="0" path="M0 0 L679.953 0 L679.953 613.685 L0 613.685 L0 0 Z" copath="M0 0 L679.953 0 L679.953 613.685 L0 613.685 L0 0 Z" gXpos="-532.098883983462" gYpos="166.251968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="448.559496084253" YPOS="939.583118152756" OwnPage="0" ItemID="876399018" PTYPE="4" WIDTH="120.9993701" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" copath="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" gXpos="0" gYpos="17.007874015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="GPS"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="552.97770084567" YPOS="1290.63911817481" OwnPage="0" ItemID="876391850" PTYPE="4" WIDTH="120.9993701" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" copath="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" gXpos="0" gYpos="42.5196850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="NFC"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="755.151370137007" YPOS="1013.50570085197" OwnPage="0" ItemID="876386730" PTYPE="4" WIDTH="149.840125925984" HEIGHT="97.6990235574802" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L149.84 0 L149.84 97.699 L0 97.699 L0 0 Z" copath="M0 0 L149.84 0 L149.84 97.699 L0 97.699 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="ambient  "/>
+                <para PARENT="Default Paragraph Style" ALIGN="1"/>
+                <ITEXT FONTSIZE="36" CH="light"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="208.978141790551" YPOS="958.009637859842" OwnPage="0" ItemID="876459434" PTYPE="4" WIDTH="169.85587395748" HEIGHT="38.6990235574804" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.856 0 L169.856 38.699 L0 38.699 L0 0 Z" copath="M0 0 L169.856 0 L169.856 38.699 L0 38.699 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="sound"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="629.41077171181" YPOS="952.828094552756" OwnPage="0" ItemID="876437418" PTYPE="4" WIDTH="236.38387395748" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.384 0 L236.384 59 L0 59 L0 0 Z" copath="M0 0 L236.384 0 L236.384 59 L0 59 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="acceleration"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="673.474204744882" YPOS="1306.52932329134" OwnPage="0" ItemID="875571114" PTYPE="4" WIDTH="236.383874" HEIGHT="72.1950861574803" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.384 0 L236.384 72.1951 L0 72.1951 L0 0 Z" copath="M0 0 L236.384 0 L236.384 72.1951 L0 72.1951 L0 0 Z" gXpos="0" gYpos="42.5196850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="atmospheric"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1"/>
+                <ITEXT FONTSIZE="36" CH="pressure"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="290.157984272441" YPOS="1318.20692959843" OwnPage="0" ItemID="875568042" PTYPE="4" WIDTH="205.70973234252" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L205.71 0 L205.71 59 L0 59 L0 0 Z" copath="M0 0 L205.71 0 L205.71 59 L0 59 L0 0 Z" gXpos="0" gYpos="42.5196850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="temperature"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="337.230551262205" YPOS="987.049448898425" OwnPage="0" ItemID="875562922" PTYPE="4" WIDTH="169.855874" HEIGHT="38.69902356" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.856 0 L169.856 38.699 L0 38.699 L0 0 Z" copath="M0 0 L169.856 0 L169.856 38.699 L0 38.699 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="video"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="466.700979047246" YPOS="1007.68503937008" OwnPage="0" ItemID="876456362" PTYPE="2" WIDTH="208.456501267715" HEIGHT="179.818897637794" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.167323943661972" LOCALSCY="0.167323943661972" LOCALX="-271.057026962539" LOCALY="-135.528513481269" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/fairphone2__22578976096_2141a01433_k.jpg" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" COMPRESSIONMETHOD="3" path="M0 0 L208.457 0 L208.457 179.819 L0 179.819 L0 0 Z" copath="M0 0 L208.457 0 L208.457 179.819 L0 179.819 L0 0 Z" gXpos="1.53562471653697" gYpos="15.8661417322848" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="469.196850393701" YPOS="1232.87401574803" OwnPage="0" ItemID="875690922" PTYPE="4" WIDTH="120.99937007874" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" copath="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" gXpos="0" gYpos="42.5196850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="3G, 4G"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="774.599307144882" YPOS="1221.62292919843" OwnPage="0" ItemID="876449194" PTYPE="4" WIDTH="120.9993701" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" copath="M0 0 L120.999 0 L120.999 59 L0 59 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="WLAN"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="213.647874074016" YPOS="1037.88409495275" OwnPage="0" ItemID="876446122" PTYPE="4" WIDTH="169.855874" HEIGHT="89.69902356" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L169.856 0 L169.856 89.699 L0 89.699 L0 0 Z" copath="M0 0 L169.856 0 L169.856 89.699 L0 89.699 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="magnetic"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1"/>
+                <ITEXT FONTSIZE="36" CH="field"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.993889784252" YPOS="1190.60806344882" OwnPage="0" ItemID="876348842" PTYPE="4" WIDTH="236.383874" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L236.384 0 L236.384 59 L0 59 L0 0 Z" copath="M0 0 L236.384 0 L236.384 59 L0 59 L0 0 Z" gXpos="0" gYpos="42.5196850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="rotation"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="216.9617638" YPOS="1224.83640951339" OwnPage="0" ItemID="876474794" PTYPE="4" WIDTH="188.18110242126" HEIGHT="59" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L188.181 0 L188.181 59 L0 59 L0 0 Z" copath="M0 0 L188.181 0 L188.181 59 L0 59 L0 0 Z" gXpos="0" gYpos="25.511811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="36" CH="Bluetooth"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1720.34747292126" YPOS="1473.41650410236" OwnPage="0" ItemID="876471722" PTYPE="6" WIDTH="504.81802707874" HEIGHT="70.86614173" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M504.818 70.8661 L0 70.8661 L0 0 L504.818 0 L504.818 70.8661 Z" copath="M504.818 70.8661 L0 70.8661 L0 0 L504.818 0 L504.818 70.8661 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1716.96976592126" YPOS="1489.57115010236" OwnPage="0" ItemID="876466602" PTYPE="4" WIDTH="479.03023407874" HEIGHT="79.82608696" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L479.03 0 L479.03 79.8261 L0 79.8261 L0 0 Z" copath="M0 0 L479.03 0 L479.03 79.8261 L0 79.8261 L0 0 Z" gXpos="0" gYpos="56.6929133858268" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="45" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="Privacy Matters"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="200" YPOS="124" OwnPage="0" ItemID="876379562" PTYPE="2" WIDTH="1500" HEIGHT="196" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="3.62962962962963" LOCALSCY="3.62962962962963" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/tandon_long_color.eps" IRENDER="0" EMBEDDED="0" path="M0 0 L1500 0 L1500 196 L0 196 L0 0 Z" copath="M0 0 L1500 0 L1500 196 L0 196 L0 0 Z" gXpos="200" gYpos="124" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1721.41795275591" YPOS="120.666666666667" OwnPage="0" ItemID="876376490" PTYPE="4" WIDTH="677.957566973755" HEIGHT="198.666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L677.958 0 L677.958 198.667 L0 198.667 L0 0 Z" copath="M0 0 L677.958 0 L677.958 198.667 L0 198.667 L0 0 Z" gXpos="1721.41795275591" gYpos="120.666666666667" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" ALIGN="2" CPARENT="Default Character Style"/>
+                <ITEXT CH="NYU Tandon School of Engineering"/>
+                <para PARENT="Address Para Style"/>
+                <ITEXT CH="6 MetroTech Center"/>
+                <breakline/>
+                <ITEXT CH="Brooklyn, NY 11201"/>
+                <trail PARENT="Address Para Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="946.0428483" YPOS="1571.69291338582" OwnPage="0" ItemID="876371370" PTYPE="2" WIDTH="670" HEIGHT="605" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.1" LOCALSCY="1.1" LOCALX="-9.28591076664285" LOCALY="-36.3624910522548" LOCALROT="360" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/mailman.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L670 0 L670 605 L0 605 L0 0 Z" copath="M0 0 L670 0 L670 605 L0 605 L0 0 Z" gXpos="946.0428483" gYpos="1571.69291338582" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="231.374186882677" YPOS="1573.07086614173" OwnPage="0" ItemID="876361130" PTYPE="4" WIDTH="677.95652177874" HEIGHT="104" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L677.957 0 L677.957 104 L0 104 L0 0 Z" copath="M0 0 L677.957 0 L677.957 104 L0 104 L0 0 Z" gXpos="9.33070866141732" gYpos="69.1431016480424" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" FONTSIZE="27"/>
+                <ITEXT FONT="Arial Bold" FONTSIZE="36" CH="Open3GMap"/>
+                <para>
+                    <Tabs Type="0" Pos="35.4782609091748" Fill=""/>
+                </para>
+                <ITEXT FONT="Arial Regular" CH="An open map of cellular reception"/>
+                <ITEXT CH=", plotting the cellular interface's readings over the GPS coordinate."/>
+                <para>
+                    <Tabs Type="0" Pos="35.4782609091748" Fill=""/>
+                </para>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="941.0428483" YPOS="2196.69291338582" OwnPage="0" ItemID="876356010" PTYPE="4" WIDTH="680.067387920472" HEIGHT="104" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L680.067 0 L680.067 104 L0 104 L0 0 Z" copath="M0 0 L680.067 0 L680.067 104 L0 104 L0 0 Z" gXpos="718.99937007874" gYpos="692.765148892136" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" FONTSIZE="27"/>
+                <ITEXT FONT="Arial Bold" FONTSIZE="36" CH="Location Blur"/>
+                <para>
+                    <Tabs Type="0" Pos="35.4782609091748" Fill=""/>
+                </para>
+                <ITEXT FONT="Arial Regular" CH="Privacy-preserving GPS access"/>
+                <ITEXT CH=". Shows sensor access frequency limiting and rounding to lower precision."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1711.34269081968" YPOS="1581.5748031496" OwnPage="0" ItemID="876197290" PTYPE="4" WIDTH="677.95652177874" HEIGHT="104" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L677.957 0 L677.957 104 L0 104 L0 0 Z" copath="M0 0 L677.957 0 L677.957 104 L0 104 L0 0 Z" gXpos="1489.29921259842" gYpos="77.6470386559163" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" FONTSIZE="27"/>
+                <ITEXT FONT="Arial Bold" FONTSIZE="36" CH="Non-Bypassable Blur Layers"/>
+                <para>
+                    <Tabs Type="0" Pos="35.4782609091748" Fill=""/>
+                </para>
+                <ITEXT FONT="Arial Regular" CH="These limit experiments to user-configurable temporal and sensor resolution"/>
+                <ITEXT CH=", protecting the user's privacy."/>
+                <para>
+                    <Tabs Type="0" Pos="35.4782609091748" Fill=""/>
+                </para>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1663.0428483" YPOS="1230.34645669291" OwnPage="0" ItemID="876094890" PTYPE="4" WIDTH="681" HEIGHT="159" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L681 0 L681 159 L0 159 L0 0 Z" copath="M0 0 L681 0 L681 159 L0 159 L0 0 Z" gXpos="1663.0428483" gYpos="1230.34645669291" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="875685802"/>
+        <PAGEOBJECT XPOS="1684.89984060219" YPOS="2432.37456177166" OwnPage="0" ItemID="876230058" PTYPE="6" WIDTH="696.804609893875" HEIGHT="621.137394921247" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M696.804 621.138 L0 621.138 L0 0 L696.804 0 L696.804 621.138 Z" copath="M774.229 690.154 L0 690.154 L0 0 L774.229 0 L774.229 690.154 Z" gXpos="1482.51968503937" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1709.69348818898" YPOS="2397.95199212599" OwnPage="0" ItemID="876091818" PTYPE="6" WIDTH="307.034545150392" HEIGHT="70.8661417322835" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.669" PCOLOR="White" PCOLOR2="NYU_Violetttttt" PLINEART="1" path="M307.035 70.8661 L0 70.8661 L0 0 L307.035 0 L307.035 70.8661 Z" copath="M307.035 70.8661 L0 70.8661 L0 0 L307.035 0 L307.035 70.8661 Z" gXpos="1482.51968503937" gYpos="56.6929133858268" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="1707.56253333937" YPOS="2413.34988015953" OwnPage="0" ItemID="876215722" PTYPE="4" WIDTH="308" HEIGHT="71" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L308 0 L308 71 L0 71 L0 0 Z" copath="M0 0 L308 0 L308 71 L0 71 L0 0 Z" gXpos="1658.85305035511" gYpos="55.9366655272441" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONTSIZE="47"/>
+                <ITEXT FONTSIZE="45" FEATURES="inherit smallcaps" FCOLOR="FromPS#000000bf" CH="Contribute"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1705.0671002685" YPOS="2494.27422108665" OwnPage="0" ItemID="876175786" PTYPE="4" WIDTH="665.484710755118" HEIGHT="414.52824382266" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L665.485 0 L665.485 414.528 L0 414.528 L0 0 Z" copath="M0 0 L665.485 0 L665.485 414.528 L0 414.528 L0 0 Z" gXpos="1482.51968503937" gYpos="68.0314960629921" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" FONTSIZE="27"/>
+                <ITEXT CH="Sensibility Testbed is free, open-source software!"/>
+                <trail>
+                    <Tabs Type="0" Pos="35.47826091" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1783.40157480315" YPOS="2520.53149606299" OwnPage="0" ItemID="876154282" PTYPE="2" WIDTH="490.25" HEIGHT="481.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="3.64962121212121" LOCALSCY="3.64962121212121" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/sensibility_github_qr.gif" IRENDER="0" EMBEDDED="0" path="M0 0 L490.25 0 L490.25 481.75 L0 481.75 L0 0 Z" copath="M0 0 L490.25 0 L490.25 481.75 L0 481.75 L0 0 Z" gXpos="0" gYpos="28.3464566929134" gWidth="554.88208140945" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1847.27362204724" YPOS="2987.87527559055" OwnPage="0" ItemID="867202474" PTYPE="4" WIDTH="414.375" HEIGHT="87.6562204724405" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L414.375 0 L414.375 87.6562 L0 87.6562 L0 0 Z" copath="M0 0 L414.375 0 L414.375 87.6562 L0 87.6562 L0 0 Z" gXpos="63.8720472440948" gYpos="495.690236220473" gWidth="554.88208140945" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="34" CH="Sensibility GitHub Page"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2253.24428613386" YPOS="2983.68503937008" OwnPage="0" ItemID="867197354" PTYPE="4" WIDTH="458.291338582671" HEIGHT="85.0393700787401" FRTYPE="0" CLIPEDIT="0" ROT="-90" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L458.291 0 L458.291 85.0394 L0 85.0394 L0 0 Z" copath="M0 0 L458.291 0 L458.291 85.0394 L0 85.0394 L0 0 Z" gXpos="469.84271133071" gYpos="491.5" gWidth="554.88208140945" gHeight="555" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="20" FCOLOR="FromPS#000000bf" CH="https://github.com/SensibilityTestbed"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="2459.84251968503" YPOS="2430.1811023622" OwnPage="0" ItemID="867194282" PTYPE="5" WIDTH="148.80543853349" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="134.879603869711" PWIDTH="60.528188976378" PCOLOR="FromPS#ff0000" PCOLOR2="FromPS#ff0000" PLINEART="1" path="" endArrowIndex="9" gXpos="19.8267716535433" gYpos="715.346456692913" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="144" YPOS="3142.66666666667" OwnPage="0" ItemID="876170666" PTYPE="4" WIDTH="756" HEIGHT="236" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L756 0 L756 236 L0 236 L0 0 Z" copath="M0 0 L756 0 L756 236 L0 236 L0 0 Z" gXpos="144" gYpos="3142.66666666667" gWidth="0" gHeight="0" PSTYLE="Textbox Para Style" LAYER="0" NEXTITEM="876163498" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Textbox Para Style"/>
+                <ITEXT FONT="Arial Bold" CH="References and Acknowledgements:"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="Scribus Poster Template by Florian Metzger. Thank you!"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="Picture of Fairphone 2 by https://www.fairphone.com/"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="Y. Zhuang, A.Rafetseder, andJ. Cappos,“Privacy-preserving experimentation with Sensibility Testbed,” ;login:: the magazine of USENIX, vol. 40, no. 4, pp. 18–21, 2015."/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="Rafetseder, A. and Metzger, F. and Pühringer, L., and Tutschku, K. and Zhuang, Y. and Cappos, J.: Sensorium – A Generic Sensor Framework. PIK - Praxis der Informationsverarbeitung und Kommunikation, vol. 36, no. 1, 2013."/>
+                <para PARENT="RefAckBox Para Style"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="Open3GMap by L. Pühringer, A. Rafetseder, F. Metzger"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."/>
+                <para PARENT="RefAckBox Para Style"/>
+                <para PARENT="RefAckBox Para Style"/>
+                <ITEXT CH="https://creativecommons.org/licenses/by-sa/4.0/"/>
+                <trail PARENT="RefAckBox Para Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="946.233070866142" YPOS="3142.66666666667" OwnPage="0" ItemID="876163498" PTYPE="4" WIDTH="697.766929133858" HEIGHT="236" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L697.767 0 L697.767 236 L0 236 L0 0 Z" copath="M0 0 L697.767 0 L697.767 236 L0 236 L0 0 Z" gXpos="946.233070866142" gYpos="3142.66666666667" gWidth="0" gHeight="0" PSTYLE="Textbox Para Style" LAYER="0" NEXTITEM="876158378" BACKITEM="876170666"/>
+        <PAGEOBJECT XPOS="1686.07559055118" YPOS="3142.66666666667" OwnPage="0" ItemID="876158378" PTYPE="4" WIDTH="756" HEIGHT="236" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L756 0 L756 236 L0 236 L0 0 Z" copath="M0 0 L756 0 L756 236 L0 236 L0 0 Z" gXpos="1686.07559055118" gYpos="3142.66666666667" gWidth="0" gHeight="0" PSTYLE="Textbox Para Style" LAYER="0" NEXTITEM="-1" BACKITEM="876163498"/>
+        <PAGEOBJECT XPOS="1906.88188976378" YPOS="3274.17448818898" OwnPage="0" ItemID="872852394" PTYPE="12" WIDTH="295.123359580055" HEIGHT="97.1562204724405" FRTYPE="0" CLIPEDIT="0" ANNAME="Group2" groupWidth="295.123359580055" groupHeight="97.1562204724405" groupClips="1" path="M0 0 L295.123 0 L295.123 97.1562 L0 97.1562 L0 0 Z" copath="M0 0 L295.123 0 L295.123 97.1562 L0 97.1562 L0 0 Z" gXpos="1906.88188976378" gYpos="3274.17448818898" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="1906.88188976378" YPOS="3274.48031496063" OwnPage="0" ItemID="866749354" PTYPE="2" WIDTH="98" HEIGHT="95" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.5" LOCALSCY="1.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/cc.eps" IRENDER="0" EMBEDDED="0" path="M0 0 L98 0 L98 95 L0 95 L0 0 Z" copath="M0 0 L98 0 L98 95 L0 95 L0 0 Z" gXpos="0" gYpos="0.305826771653301" gWidth="295.123359580055" gHeight="97.1562204724405" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="2006.88976377953" YPOS="3275.33070866142" OwnPage="0" ItemID="849431466" PTYPE="2" WIDTH="97.6666666666667" HEIGHT="89" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.5" LOCALSCY="1.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/by.eps" IRENDER="0" EMBEDDED="0" path="M0 0 L97.6667 0 L97.6667 89 L0 89 L0 0 Z" copath="M0 0 L97.6667 0 L97.6667 89 L0 89 L0 0 Z" gXpos="100.00787401575" gYpos="1.15622047244051" gWidth="295.123359580055" gHeight="97.1562204724405" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+            <PAGEOBJECT XPOS="2111.33858267717" YPOS="3274.17448818898" OwnPage="0" ItemID="873108906" PTYPE="2" WIDTH="90.6666666666665" HEIGHT="97.1562204724405" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1.5" LOCALSCY="1.5" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="../../../../../../SensibilityTestbed/papers/mess16/poster/pictures/sa.eps" IRENDER="0" EMBEDDED="0" path="M0 0 L90.6667 0 L90.6667 97.1562 L0 97.1562 L0 0 Z" copath="M0 0 L90.6667 0 L90.6667 97.1562 L0 97.1562 L0 0 Z" ImageRes="0" gXpos="204.456692913388" gYpos="0" gWidth="295.123359580055" gHeight="97.1562204724405" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="970.508045150393" YPOS="2494.3214651811" OwnPage="0" ItemID="851922858" PTYPE="4" WIDTH="649.491954849607" HEIGHT="550.52892851968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L649.492 0 L649.492 550.529 L0 550.529 L0 0 Z" copath="M0 0 L649.492 0 L649.492 550.529 L0 550.529 L0 0 Z" gXpos="14.1732283464567" gYpos="65.1968503937008" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" FONTSIZE="27"/>
+                <ITEXT FONT="Arial Regular" CH="Experiments use "/>
+                <ITEXT FONT="Arial Bold" CH="Repy"/>
+                <ITEXT FONT="Arial Regular" CH=", a restricted variant of Python. Sensor access follows a simple, single-call pattern."/>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <ITEXT FONT="Arial Bold" CH="Example:"/>
+                <ITEXT FONT="Arial Regular" CH=" Read the three-axis acceleromenter and record the magnitude of the acceleration vector."/>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <para>
+                    <Tabs Type="0" Pos="29.0999658047599" Fill=""/>
+                </para>
+                <ITEXT CH="Further capabilities include other sensors, network interface properties, and cellular and WLAN Internet access. The sandbox is extended over time to include more sensors on recent devices."/>
+                <trail>
+                    <Tabs Type="0" Pos="35.47826091" Fill=""/>
+                </trail>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
